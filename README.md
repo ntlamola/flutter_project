@@ -26,6 +26,9 @@ Clone the repository:
    git clone https://github.com/ntlamola/flutter_project.git
    cd flutter_project
 
+    SSH
+    git@github.com:ntlamola/flutter_project.git
+
 Dependencies
 
     flutter_bloc: For Bloc pattern-based state management.
