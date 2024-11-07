@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # flutter_application_1
 
 Possible Enhancements
@@ -35,6 +34,4 @@ Dependencies
     http: to submit requests to APIs.
     During testing, use mocktail to simulate dependencies.
     bloc_test: To facilitate Bloc testing.
-=======
 
->>>>>>> 5bea57103aa093656438c07369a83318b9915f9e
